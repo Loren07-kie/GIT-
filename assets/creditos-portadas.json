@@ -1,0 +1,516 @@
+{
+  "database": "anime-offline-database by manami-project",
+  "database_url": "https://github.com/manami-project/anime-offline-database",
+  "database_license": "ODbL 1.0",
+  "covers": "MyAnimeList; artwork remains property of its respective rights holders",
+  "animes": [
+    {
+      "id": 20,
+      "title": "Naruto",
+      "picture": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+      "sources": [
+        "https://anidb.net/anime/239",
+        "https://anilist.co/anime/20",
+        "https://anime-planet.com/anime/naruto",
+        "https://animecountdown.com/39508",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=1825",
+        "https://anisearch.com/anime/2788",
+        "https://kitsu.app/anime/11",
+        "https://livechart.me/anime/3585",
+        "https://myanimelist.net/anime/20",
+        "https://simkl.com/anime/39508"
+      ]
+    },
+    {
+      "id": 813,
+      "title": "Dragon Ball Z",
+      "picture": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+      "sources": [
+        "https://anidb.net/anime/1530",
+        "https://anilist.co/anime/813",
+        "https://anime-planet.com/anime/dragon-ball-z",
+        "https://animecountdown.com/41487",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=244",
+        "https://anisearch.com/anime/2938",
+        "https://kitsu.app/anime/720",
+        "https://livechart.me/anime/3632",
+        "https://myanimelist.net/anime/813",
+        "https://simkl.com/anime/41487"
+      ]
+    },
+    {
+      "id": 16498,
+      "title": "Shingeki no Kyojin",
+      "picture": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "sources": [
+        "https://anidb.net/anime/9541",
+        "https://anilist.co/anime/16498",
+        "https://anime-planet.com/anime/attack-on-titan",
+        "https://animecountdown.com/39687",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=14950",
+        "https://anisearch.com/anime/8219",
+        "https://kitsu.app/anime/7442",
+        "https://livechart.me/anime/38",
+        "https://myanimelist.net/anime/16498",
+        "https://simkl.com/anime/39687"
+      ]
+    },
+    {
+      "id": 38000,
+      "title": "Kimetsu no Yaiba",
+      "picture": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "sources": [
+        "https://anidb.net/anime/14107",
+        "https://anilist.co/anime/101922",
+        "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba",
+        "https://animecountdown.com/831411",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=21101",
+        "https://anisearch.com/anime/13658",
+        "https://kitsu.app/anime/41370",
+        "https://livechart.me/anime/3311",
+        "https://myanimelist.net/anime/38000",
+        "https://simkl.com/anime/831411"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "One Piece",
+      "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+      "sources": [
+        "https://anidb.net/anime/69",
+        "https://anilist.co/anime/21",
+        "https://anime-planet.com/anime/one-piece",
+        "https://animecountdown.com/38636",
+        "https://anisearch.com/anime/2227",
+        "https://kitsu.app/anime/12",
+        "https://livechart.me/anime/321",
+        "https://myanimelist.net/anime/21",
+        "https://simkl.com/anime/38636"
+      ]
+    },
+    {
+      "id": 40748,
+      "title": "Jujutsu Kaisen",
+      "picture": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "sources": [
+        "https://anidb.net/anime/15275",
+        "https://anilist.co/anime/113415",
+        "https://anime-planet.com/anime/jujutsu-kaisen",
+        "https://animecountdown.com/1211265",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=22944",
+        "https://anisearch.com/anime/14790",
+        "https://kitsu.app/anime/42765",
+        "https://livechart.me/anime/9680",
+        "https://myanimelist.net/anime/40748",
+        "https://simkl.com/anime/1211265"
+      ]
+    },
+    {
+      "id": 44511,
+      "title": "Chainsaw Man",
+      "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+      "sources": [
+        "https://anidb.net/anime/15914",
+        "https://anilist.co/anime/127230",
+        "https://anime-planet.com/anime/chainsaw-man",
+        "https://animecountdown.com/1498301",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=23843",
+        "https://anisearch.com/anime/15808",
+        "https://kitsu.app/anime/43806",
+        "https://livechart.me/anime/10257",
+        "https://myanimelist.net/anime/44511",
+        "https://simkl.com/anime/1498301"
+      ]
+    },
+    {
+      "id": 50265,
+      "title": "Spy x Family",
+      "picture": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+      "sources": [
+        "https://anidb.net/anime/16947",
+        "https://anilist.co/anime/140960",
+        "https://anime-planet.com/anime/spy-x-family",
+        "https://animecountdown.com/1766469",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=24917",
+        "https://anisearch.com/anime/16717",
+        "https://kitsu.app/anime/45398",
+        "https://livechart.me/anime/10456",
+        "https://myanimelist.net/anime/50265",
+        "https://simkl.com/anime/1766469"
+      ]
+    },
+    {
+      "id": 1535,
+      "title": "Death Note",
+      "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+      "sources": [
+        "https://anidb.net/anime/4563",
+        "https://anilist.co/anime/1535",
+        "https://anime-planet.com/anime/death-note",
+        "https://animecountdown.com/40190",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=6592",
+        "https://anisearch.com/anime/3633",
+        "https://kitsu.app/anime/1376",
+        "https://livechart.me/anime/3437",
+        "https://myanimelist.net/anime/1535",
+        "https://simkl.com/anime/40190"
+      ]
+    },
+    {
+      "id": 11061,
+      "title": "Hunter x Hunter (2011)",
+      "picture": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+      "sources": [
+        "https://anidb.net/anime/8550",
+        "https://anilist.co/anime/11061",
+        "https://anime-planet.com/anime/hunter-x-hunter-2011",
+        "https://animecountdown.com/40398",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=13262",
+        "https://anisearch.com/anime/7223",
+        "https://kitsu.app/anime/6448",
+        "https://livechart.me/anime/317",
+        "https://myanimelist.net/anime/11061",
+        "https://simkl.com/anime/40398"
+      ]
+    },
+    {
+      "id": 5114,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "picture": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+      "sources": [
+        "https://anidb.net/anime/6107",
+        "https://anilist.co/anime/5114",
+        "https://anime-planet.com/anime/fullmetal-alchemist-brotherhood",
+        "https://animecountdown.com/41586",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=10216",
+        "https://anisearch.com/anime/5048",
+        "https://kitsu.app/anime/3936",
+        "https://livechart.me/anime/3409",
+        "https://myanimelist.net/anime/5114",
+        "https://simkl.com/anime/41586"
+      ]
+    },
+    {
+      "id": 30276,
+      "title": "One Punch Man",
+      "picture": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+      "sources": [
+        "https://anidb.net/anime/11123",
+        "https://anilist.co/anime/21087",
+        "https://anime-planet.com/anime/one-punch-man",
+        "https://animecountdown.com/478386",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=16840",
+        "https://anisearch.com/anime/10317",
+        "https://kitsu.app/anime/10740",
+        "https://livechart.me/anime/1431",
+        "https://myanimelist.net/anime/30276",
+        "https://simkl.com/anime/478386"
+      ]
+    },
+    {
+      "id": 31964,
+      "title": "Boku no Hero Academia",
+      "picture": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+      "sources": [
+        "https://anidb.net/anime/11739",
+        "https://anilist.co/anime/21459",
+        "https://anime-planet.com/anime/my-hero-academia",
+        "https://animecountdown.com/532942",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=17786",
+        "https://anisearch.com/anime/10978",
+        "https://kitsu.app/anime/11469",
+        "https://livechart.me/anime/1895",
+        "https://myanimelist.net/anime/31964",
+        "https://simkl.com/anime/532942"
+      ]
+    },
+    {
+      "id": 269,
+      "title": "Bleach",
+      "picture": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+      "sources": [
+        "https://anidb.net/anime/2369",
+        "https://anilist.co/anime/269",
+        "https://anime-planet.com/anime/bleach",
+        "https://animecountdown.com/41066",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=4240",
+        "https://anisearch.com/anime/1078",
+        "https://kitsu.app/anime/244",
+        "https://livechart.me/anime/3340",
+        "https://myanimelist.net/anime/269",
+        "https://simkl.com/anime/41066"
+      ]
+    },
+    {
+      "id": 34572,
+      "title": "Black Clover",
+      "picture": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+      "sources": [
+        "https://anidb.net/anime/12665",
+        "https://anilist.co/anime/97940",
+        "https://anime-planet.com/anime/black-clover",
+        "https://animecountdown.com/644079",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=19743",
+        "https://anisearch.com/anime/12131",
+        "https://kitsu.app/anime/13209",
+        "https://livechart.me/anime/2478",
+        "https://myanimelist.net/anime/34572",
+        "https://simkl.com/anime/644079"
+      ]
+    },
+    {
+      "id": 11757,
+      "title": "Sword Art Online",
+      "picture": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+      "sources": [
+        "https://anidb.net/anime/8692",
+        "https://anilist.co/anime/11757",
+        "https://anime-planet.com/anime/sword-art-online",
+        "https://animecountdown.com/37226",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=13858",
+        "https://anisearch.com/anime/7335",
+        "https://kitsu.app/anime/6589",
+        "https://livechart.me/anime/1038",
+        "https://myanimelist.net/anime/11757",
+        "https://simkl.com/anime/37226"
+      ]
+    },
+    {
+      "id": 20583,
+      "title": "Haikyuu!!",
+      "picture": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+      "sources": [
+        "https://anidb.net/anime/10145",
+        "https://anilist.co/anime/20464",
+        "https://anime-planet.com/anime/haikyuu",
+        "https://animecountdown.com/47270",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=15683",
+        "https://anisearch.com/anime/9011",
+        "https://kitsu.app/anime/8133",
+        "https://livechart.me/anime/251",
+        "https://myanimelist.net/anime/20583",
+        "https://simkl.com/anime/47270"
+      ]
+    },
+    {
+      "id": 28171,
+      "title": "Shokugeki no Souma",
+      "picture": "https://cdn.myanimelist.net/images/anime/1444/148976.jpg",
+      "sources": [
+        "https://anidb.net/anime/10901",
+        "https://anilist.co/anime/20923",
+        "https://anime-planet.com/anime/food-wars-shokugeki-no-souma",
+        "https://animecountdown.com/428720",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=16344",
+        "https://anisearch.com/anime/9937",
+        "https://kitsu.app/anime/9967",
+        "https://livechart.me/anime/1275",
+        "https://myanimelist.net/anime/28171",
+        "https://simkl.com/anime/428720"
+      ]
+    },
+    {
+      "id": 22319,
+      "title": "Tokyo Ghoul",
+      "picture": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+      "sources": [
+        "https://anidb.net/anime/10401",
+        "https://anilist.co/anime/20605",
+        "https://anime-planet.com/anime/tokyo-ghoul",
+        "https://animecountdown.com/46740",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=16087",
+        "https://anisearch.com/anime/9357",
+        "https://kitsu.app/anime/8271",
+        "https://livechart.me/anime/412",
+        "https://myanimelist.net/anime/22319",
+        "https://simkl.com/anime/46740"
+      ]
+    },
+    {
+      "id": 31240,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "picture": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+      "sources": [
+        "https://anidb.net/anime/11370",
+        "https://anilist.co/anime/21355",
+        "https://anime-planet.com/anime/re-zero-starting-life-in-another-world",
+        "https://animecountdown.com/509292",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=17360",
+        "https://anisearch.com/anime/10572",
+        "https://kitsu.app/anime/11209",
+        "https://livechart.me/anime/1723",
+        "https://myanimelist.net/anime/31240",
+        "https://simkl.com/anime/509292"
+      ]
+    },
+    {
+      "id": 9253,
+      "title": "Steins;Gate",
+      "picture": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+      "sources": [
+        "https://anidb.net/anime/7729",
+        "https://anilist.co/anime/9253",
+        "https://anime-planet.com/anime/steins-gate",
+        "https://animecountdown.com/38960",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=11770",
+        "https://anisearch.com/anime/6332",
+        "https://kitsu.app/anime/5646",
+        "https://livechart.me/anime/1554",
+        "https://myanimelist.net/anime/9253",
+        "https://simkl.com/anime/38960"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Cowboy Bebop",
+      "picture": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+      "sources": [
+        "https://anidb.net/anime/23",
+        "https://anilist.co/anime/1",
+        "https://anime-planet.com/anime/cowboy-bebop",
+        "https://animecountdown.com/37089",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=13",
+        "https://anisearch.com/anime/1572",
+        "https://kitsu.app/anime/1",
+        "https://livechart.me/anime/3418",
+        "https://myanimelist.net/anime/1",
+        "https://simkl.com/anime/37089"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Shinseiki Evangelion",
+      "picture": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+      "sources": [
+        "https://anidb.net/anime/22",
+        "https://anilist.co/anime/30",
+        "https://anime-planet.com/anime/neon-genesis-evangelion",
+        "https://animecountdown.com/41254",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=49",
+        "https://anisearch.com/anime/345",
+        "https://kitsu.app/anime/21",
+        "https://livechart.me/anime/3590",
+        "https://myanimelist.net/anime/30",
+        "https://simkl.com/anime/41254"
+      ]
+    },
+    {
+      "id": 28851,
+      "title": "Koe no Katachi",
+      "picture": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+      "sources": [
+        "https://anidb.net/anime/10937",
+        "https://anilist.co/anime/20954",
+        "https://anime-planet.com/anime/a-silent-voice",
+        "https://animecountdown.com/436948",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=16661",
+        "https://anisearch.com/anime/9981",
+        "https://kitsu.app/anime/10028",
+        "https://livechart.me/anime/1296",
+        "https://myanimelist.net/anime/28851",
+        "https://simkl.com/anime/436948"
+      ]
+    },
+    {
+      "id": 32281,
+      "title": "Kimi no Na wa.",
+      "picture": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+      "sources": [
+        "https://anidb.net/anime/11829",
+        "https://anilist.co/anime/21519",
+        "https://anime-planet.com/anime/your-name",
+        "https://animecountdown.com/543146",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=18171",
+        "https://anisearch.com/anime/11005",
+        "https://kitsu.app/anime/11614",
+        "https://livechart.me/anime/1956",
+        "https://myanimelist.net/anime/32281",
+        "https://simkl.com/anime/543146"
+      ]
+    },
+    {
+      "id": 52991,
+      "title": "Sousou no Frieren",
+      "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+      "sources": [
+        "https://anidb.net/anime/17617",
+        "https://anilist.co/anime/154587",
+        "https://anime-planet.com/anime/frieren-beyond-journeys-end",
+        "https://animecountdown.com/1990194",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=26334",
+        "https://anisearch.com/anime/17669",
+        "https://kitsu.app/anime/46474",
+        "https://livechart.me/anime/11376",
+        "https://myanimelist.net/anime/52991",
+        "https://simkl.com/anime/1990194"
+      ]
+    },
+    {
+      "id": 38691,
+      "title": "Dr. Stone",
+      "picture": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+      "sources": [
+        "https://anidb.net/anime/14491",
+        "https://anilist.co/anime/105333",
+        "https://anime-planet.com/anime/dr-stone",
+        "https://animecountdown.com/966385",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=21703",
+        "https://anisearch.com/anime/13989",
+        "https://kitsu.app/anime/42080",
+        "https://livechart.me/anime/8349",
+        "https://myanimelist.net/anime/38691",
+        "https://simkl.com/anime/966385"
+      ]
+    },
+    {
+      "id": 24833,
+      "title": "Ansatsu Kyoushitsu",
+      "picture": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+      "sources": [
+        "https://anidb.net/anime/10702",
+        "https://anilist.co/anime/20755",
+        "https://anime-planet.com/anime/assassination-classroom",
+        "https://animecountdown.com/51848",
+        "https://anisearch.com/anime/9701",
+        "https://kitsu.app/anime/8640",
+        "https://livechart.me/anime/638",
+        "https://myanimelist.net/anime/24833",
+        "https://simkl.com/anime/51848"
+      ]
+    },
+    {
+      "id": 32182,
+      "title": "Mob Psycho 100",
+      "picture": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+      "sources": [
+        "https://anidb.net/anime/11803",
+        "https://anilist.co/anime/21507",
+        "https://anime-planet.com/anime/mob-psycho-100",
+        "https://animecountdown.com/541198",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=18064",
+        "https://anisearch.com/anime/11092",
+        "https://kitsu.app/anime/11578",
+        "https://livechart.me/anime/1936",
+        "https://myanimelist.net/anime/32182",
+        "https://simkl.com/anime/541198"
+      ]
+    },
+    {
+      "id": 2001,
+      "title": "Tengen Toppa Gurren Lagann",
+      "picture": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+      "sources": [
+        "https://anidb.net/anime/4575",
+        "https://anilist.co/anime/2001",
+        "https://anime-planet.com/anime/tengen-toppa-gurren-lagann",
+        "https://animecountdown.com/39552",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=6698",
+        "https://anisearch.com/anime/3711",
+        "https://kitsu.app/anime/1801",
+        "https://livechart.me/anime/3583",
+        "https://myanimelist.net/anime/2001",
+        "https://simkl.com/anime/39552"
+      ]
+    }
+  ]
+}

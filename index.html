@@ -2,36 +2,185 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>KIERIN Anime Panels | Lorena Abigail</title>
+<meta name="description" content="Colección visual de 30 animes: Naruto, Dragon Ball Z, Shingeki no Kyojin, Kimetsu no Yaiba y más. Proyecto HTML y CSS de Lorena.">
+<title>KIERIN ANIME | 30 mundos por descubrir</title>
 <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
+<a class="skip" href="#paneles">Saltar a la colección</a>
 <header class="nav">
-  <a class="logo" href="#inicio"><span class="symbol">✦</span> KIERIN<span>ANIME</span></a>
-  <nav aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#paneles">Explorar</a><a href="#creditos">Créditos</a></nav>
-  <span class="account">LORENA · kierin</span>
+ <a class="logo" href="#inicio"><span class="symbol">✦</span> KIERIN<span>ANIME</span></a>
+ <nav aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#paneles">Colección</a><a href="#creditos">Créditos</a></nav>
+ <span class="account">LORENA · kierin</span>
 </header>
 <main id="inicio">
-  <section class="hero">
-    <div class="visual"><img class="hero-art" src="assets/anime-hero.png" alt="Tres aventureros de anime sobre una azotea al atardecer"></div>
-    <div class="shade"></div>
-    <div class="hero-copy">
-      <span class="eyebrow">NUEVA COLECCIÓN · ANIME ORIGINAL</span>
-      <h1>NEXUS <em>BLADE</em></h1>
-      <p>Cuando el sol cae, una nueva aventura despierta. Explora cuatro mundos de acción, fantasía y ciencia ficción en esta colección de portadas originales.</p>
-      <a class="cta" href="#paneles">▶ Explorar paneles</a>
-      <span class="sub">Proyecto académico · Estudiante Lorena</span>
-    </div>
-  </section>
-  <section class="catalog" id="paneles">
-    <div class="section-head"><div><span class="tag">COLECCIÓN VISUAL</span><h2>Descubre mundos extraordinarios</h2></div><span class="hint">Solo portadas · HTML + CSS</span></div>
-    <div class="panels">
-      <article class="panel fire"><div class="panel-art" aria-hidden="true"></div><span class="genre">ACCIÓN</span><div class="panel-text"><h3>SKY WARRIORS</h3><p>El cielo es solo el comienzo.</p></div></article>
-      <article class="panel violet"><div class="panel-art" aria-hidden="true"></div><span class="genre">FANTASÍA</span><div class="panel-text"><h3>MOON SPIRIT</h3><p>Un poder despierta con la luna.</p></div></article>
-      <article class="panel cyan"><div class="panel-art" aria-hidden="true"></div><span class="genre">CIENCIA FICCIÓN</span><div class="panel-text"><h3>MECHA CORE</h3><p>Un nuevo futuro comienza aquí.</p></div></article>
-      <article class="panel rose"><div class="panel-art" aria-hidden="true"></div><span class="genre">AVENTURA</span><div class="panel-text"><h3>STAR REBORN</h3><p>Encuentra tu propia constelación.</p></div></article>
-    </div>
-  </section>
+ <section class="hero" aria-labelledby="titulo">
+  <div class="hero-mosaic"><img src="assets/portadas/20.jpg" alt="Naruto" width="300" height="450"><img src="assets/portadas/813.jpg" alt="Dragon Ball Z" width="300" height="450"><img src="assets/portadas/16498.jpg" alt="Shingeki no Kyojin" width="300" height="450"><img src="assets/portadas/38000.jpg" alt="Kimetsu no Yaiba" width="300" height="450"></div><div class="shade"></div>
+  <div class="hero-copy">
+   <span class="eyebrow">30 ANIMES · INFINITAS HISTORIAS</span>
+   <h1 id="titulo">TU MUNDO<br><em>ANIME</em></h1>
+   <p>De la aldea de Konoha a la batalla por la humanidad. Descubre las portadas de tus historias favoritas en una colección llena de aventura.</p>
+   <a class="cta" href="#paneles">Explorar la colección <span aria-hidden="true">↗</span></a>
+   <span class="sub">Naruto · Dragon Ball Z · Shingeki no Kyojin · Kimetsu no Yaiba</span>
+  </div>
+  <div class="hero-count"><strong>30</strong><span>mundos por descubrir</span></div>
+ </section>
+ <section class="catalog" id="paneles" aria-labelledby="coleccion">
+  <div class="section-head"><div><span class="tag">ELIGE TU PRÓXIMA AVENTURA</span><h2 id="coleccion">Historias que dejan huella</h2></div><span class="hint">30 portadas &nbsp; / &nbsp; una colección</span></div>
+  <div class="panels">
+      <article class="panel" aria-label="Naruto">
+        <img src="assets/portadas/20.jpg" alt="Portada de Naruto" width="300" height="450" loading="eager">
+        <span class="genre">NINJAS</span>
+        <div class="panel-text"><span class="number">01 / 30</span><h3>Naruto</h3><p>2002 &nbsp;·&nbsp; 220 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Dragon Ball Z">
+        <img src="assets/portadas/813.jpg" alt="Portada de Dragon Ball Z" width="300" height="450" loading="eager">
+        <span class="genre">ACCIÓN</span>
+        <div class="panel-text"><span class="number">02 / 30</span><h3>Dragon Ball Z</h3><p>1989 &nbsp;·&nbsp; 291 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Shingeki no Kyojin">
+        <img src="assets/portadas/16498.jpg" alt="Portada de Shingeki no Kyojin" width="300" height="450" loading="eager">
+        <span class="genre">FANTASÍA OSCURA</span>
+        <div class="panel-text"><span class="number">03 / 30</span><h3>Shingeki no Kyojin</h3><p>2013 &nbsp;·&nbsp; 25 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Kimetsu no Yaiba">
+        <img src="assets/portadas/38000.jpg" alt="Portada de Kimetsu no Yaiba" width="300" height="450" loading="eager">
+        <span class="genre">DEMONIOS</span>
+        <div class="panel-text"><span class="number">04 / 30</span><h3>Kimetsu no Yaiba</h3><p>2019 &nbsp;·&nbsp; 26 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="One Piece">
+        <img src="assets/portadas/21.jpg" alt="Portada de One Piece" width="300" height="450" loading="eager">
+        <span class="genre">AVENTURA</span>
+        <div class="panel-text"><span class="number">05 / 30</span><h3>One Piece</h3><p>1999 &nbsp;·&nbsp; 1168 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Jujutsu Kaisen">
+        <img src="assets/portadas/40748.jpg" alt="Portada de Jujutsu Kaisen" width="300" height="450" loading="eager">
+        <span class="genre">SOBRENATURAL</span>
+        <div class="panel-text"><span class="number">06 / 30</span><h3>Jujutsu Kaisen</h3><p>2020 &nbsp;·&nbsp; 24 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Chainsaw Man">
+        <img src="assets/portadas/44511.jpg" alt="Portada de Chainsaw Man" width="300" height="450" loading="lazy">
+        <span class="genre">ACCIÓN</span>
+        <div class="panel-text"><span class="number">07 / 30</span><h3>Chainsaw Man</h3><p>2022 &nbsp;·&nbsp; 12 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Spy x Family">
+        <img src="assets/portadas/50265.jpg" alt="Portada de Spy x Family" width="300" height="450" loading="lazy">
+        <span class="genre">COMEDIA</span>
+        <div class="panel-text"><span class="number">08 / 30</span><h3>Spy x Family</h3><p>2022 &nbsp;·&nbsp; 12 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Death Note">
+        <img src="assets/portadas/1535.jpg" alt="Portada de Death Note" width="300" height="450" loading="lazy">
+        <span class="genre">SUSPENSO</span>
+        <div class="panel-text"><span class="number">09 / 30</span><h3>Death Note</h3><p>2006 &nbsp;·&nbsp; 37 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Hunter x Hunter (2011)">
+        <img src="assets/portadas/11061.jpg" alt="Portada de Hunter x Hunter (2011)" width="300" height="450" loading="lazy">
+        <span class="genre">AVENTURA</span>
+        <div class="panel-text"><span class="number">10 / 30</span><h3>Hunter x Hunter (2011)</h3><p>2011 &nbsp;·&nbsp; 148 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Fullmetal Alchemist: Brotherhood">
+        <img src="assets/portadas/5114.jpg" alt="Portada de Fullmetal Alchemist: Brotherhood" width="300" height="450" loading="lazy">
+        <span class="genre">FANTASÍA</span>
+        <div class="panel-text"><span class="number">11 / 30</span><h3>Fullmetal Alchemist: Brotherhood</h3><p>2009 &nbsp;·&nbsp; 64 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="One Punch Man">
+        <img src="assets/portadas/30276.jpg" alt="Portada de One Punch Man" width="300" height="450" loading="lazy">
+        <span class="genre">SUPERHÉROES</span>
+        <div class="panel-text"><span class="number">12 / 30</span><h3>One Punch Man</h3><p>2015 &nbsp;·&nbsp; 12 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="My Hero Academia">
+        <img src="assets/portadas/31964.jpg" alt="Portada de My Hero Academia" width="300" height="450" loading="lazy">
+        <span class="genre">SUPERHÉROES</span>
+        <div class="panel-text"><span class="number">13 / 30</span><h3>My Hero Academia</h3><p>2016 &nbsp;·&nbsp; 13 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Bleach">
+        <img src="assets/portadas/269.jpg" alt="Portada de Bleach" width="300" height="450" loading="lazy">
+        <span class="genre">SOBRENATURAL</span>
+        <div class="panel-text"><span class="number">14 / 30</span><h3>Bleach</h3><p>2004 &nbsp;·&nbsp; 366 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Black Clover">
+        <img src="assets/portadas/34572.jpg" alt="Portada de Black Clover" width="300" height="450" loading="lazy">
+        <span class="genre">MAGIA</span>
+        <div class="panel-text"><span class="number">15 / 30</span><h3>Black Clover</h3><p>2017 &nbsp;·&nbsp; 170 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Sword Art Online">
+        <img src="assets/portadas/11757.jpg" alt="Portada de Sword Art Online" width="300" height="450" loading="lazy">
+        <span class="genre">MUNDO VIRTUAL</span>
+        <div class="panel-text"><span class="number">16 / 30</span><h3>Sword Art Online</h3><p>2012 &nbsp;·&nbsp; 25 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Haikyuu!!">
+        <img src="assets/portadas/20583.jpg" alt="Portada de Haikyuu!!" width="300" height="450" loading="lazy">
+        <span class="genre">DEPORTES</span>
+        <div class="panel-text"><span class="number">17 / 30</span><h3>Haikyuu!!</h3><p>2014 &nbsp;·&nbsp; 25 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Food Wars">
+        <img src="assets/portadas/28171.jpg" alt="Portada de Food Wars" width="300" height="450" loading="lazy">
+        <span class="genre">COCINA</span>
+        <div class="panel-text"><span class="number">18 / 30</span><h3>Food Wars</h3><p>2015 &nbsp;·&nbsp; 24 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Tokyo Ghoul">
+        <img src="assets/portadas/22319.jpg" alt="Portada de Tokyo Ghoul" width="300" height="450" loading="lazy">
+        <span class="genre">FANTASÍA OSCURA</span>
+        <div class="panel-text"><span class="number">19 / 30</span><h3>Tokyo Ghoul</h3><p>2014 &nbsp;·&nbsp; 12 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Re:Zero">
+        <img src="assets/portadas/31240.jpg" alt="Portada de Re:Zero" width="300" height="450" loading="lazy">
+        <span class="genre">ISEKAI</span>
+        <div class="panel-text"><span class="number">20 / 30</span><h3>Re:Zero</h3><p>2016 &nbsp;·&nbsp; 25 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Steins;Gate">
+        <img src="assets/portadas/9253.jpg" alt="Portada de Steins;Gate" width="300" height="450" loading="lazy">
+        <span class="genre">CIENCIA FICCIÓN</span>
+        <div class="panel-text"><span class="number">21 / 30</span><h3>Steins;Gate</h3><p>2011 &nbsp;·&nbsp; 24 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Cowboy Bebop">
+        <img src="assets/portadas/1.jpg" alt="Portada de Cowboy Bebop" width="300" height="450" loading="lazy">
+        <span class="genre">ESPACIO</span>
+        <div class="panel-text"><span class="number">22 / 30</span><h3>Cowboy Bebop</h3><p>1998 &nbsp;·&nbsp; 26 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Neon Genesis Evangelion">
+        <img src="assets/portadas/30.jpg" alt="Portada de Neon Genesis Evangelion" width="300" height="450" loading="lazy">
+        <span class="genre">MECHA</span>
+        <div class="panel-text"><span class="number">23 / 30</span><h3>Neon Genesis Evangelion</h3><p>1995 &nbsp;·&nbsp; 26 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Una voz silenciosa">
+        <img src="assets/portadas/28851.jpg" alt="Portada de Una voz silenciosa" width="300" height="450" loading="lazy">
+        <span class="genre">DRAMA</span>
+        <div class="panel-text"><span class="number">24 / 30</span><h3>Una voz silenciosa</h3><p>2016 &nbsp;·&nbsp; Película</p></div>
+      </article>
+      <article class="panel" aria-label="Your Name">
+        <img src="assets/portadas/32281.jpg" alt="Portada de Your Name" width="300" height="450" loading="lazy">
+        <span class="genre">ROMANCE</span>
+        <div class="panel-text"><span class="number">25 / 30</span><h3>Your Name</h3><p>2016 &nbsp;·&nbsp; Película</p></div>
+      </article>
+      <article class="panel" aria-label="Frieren">
+        <img src="assets/portadas/52991.jpg" alt="Portada de Frieren" width="300" height="450" loading="lazy">
+        <span class="genre">FANTASÍA</span>
+        <div class="panel-text"><span class="number">26 / 30</span><h3>Frieren</h3><p>2023 &nbsp;·&nbsp; 28 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Dr. Stone">
+        <img src="assets/portadas/38691.jpg" alt="Portada de Dr. Stone" width="300" height="450" loading="lazy">
+        <span class="genre">CIENCIA</span>
+        <div class="panel-text"><span class="number">27 / 30</span><h3>Dr. Stone</h3><p>2019 &nbsp;·&nbsp; 24 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Assassination Classroom">
+        <img src="assets/portadas/24833.jpg" alt="Portada de Assassination Classroom" width="300" height="450" loading="lazy">
+        <span class="genre">COMEDIA</span>
+        <div class="panel-text"><span class="number">28 / 30</span><h3>Assassination Classroom</h3><p>2015 &nbsp;·&nbsp; 22 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Mob Psycho 100">
+        <img src="assets/portadas/32182.jpg" alt="Portada de Mob Psycho 100" width="300" height="450" loading="lazy">
+        <span class="genre">SOBRENATURAL</span>
+        <div class="panel-text"><span class="number">29 / 30</span><h3>Mob Psycho 100</h3><p>2016 &nbsp;·&nbsp; 12 episodios</p></div>
+      </article>
+      <article class="panel" aria-label="Gurren Lagann">
+        <img src="assets/portadas/2001.jpg" alt="Portada de Gurren Lagann" width="300" height="450" loading="lazy">
+        <span class="genre">MECHA</span>
+        <div class="panel-text"><span class="number">30 / 30</span><h3>Gurren Lagann</h3><p>2007 &nbsp;·&nbsp; 27 episodios</p></div>
+      </article>
+  </div>
+ </section>
 </main>
-<footer id="creditos"><strong>KIERIN ANIME</strong><span>Estudiante: Lorena</span><span>Computadora 1: LORENA · Computadora 2: kierin</span><span>HTML + CSS · Proyecto académico no oficial</span></footer>
-</body></html>
+<footer id="creditos"><div><strong>KIERIN ANIME</strong><p>Estudiante Lorena · HTML + CSS</p></div><div><p>LORENA · kierin</p><p>Proyecto académico · Solo portadas</p></div><div><p>Portadas de MyAnimeList y sus respectivos titulares.</p><p>Datos: anime-offline-database · ODbL 1.0</p></div><a href="#inicio">Volver al inicio ↑</a></footer>
+</body>
+</html>
